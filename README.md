@@ -4,7 +4,7 @@
 ## `Visual`
 
 <p aligh="center">
-    <img  height="400" src="./assets/drop.png"/><br><br>
+    <img  height="400" src="https://github.com/stanley-rodrigues/water-drop/blob/main/assets/mobile%20(4).png?raw=true"/><br><br>
 
 ## Sobre
 Criado ultilizando:<br>
